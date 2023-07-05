@@ -1,0 +1,15 @@
+
+
+.imm{
+    height:450px;
+     width:100%
+}
+
+@media screen and ( width <= 500px) {
+
+   .imm{
+       height: 200px;
+
+   }
+
+}
